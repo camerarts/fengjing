@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Long Video Assistant--分镜",
+  "description": "A personal AI-powered assistant for automating long video production workflows, from scripting to storyboard and cover generation.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
